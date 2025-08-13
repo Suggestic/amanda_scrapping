@@ -1,6 +1,6 @@
 {
   "method": "simple_scrape",
-  "timestamp": "2025-07-30T17:48:44.070263",
+  "timestamp": "2025-08-13T13:33:43.344445",
   "base_url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io",
   "total_urls": 114,
   "urls": [
@@ -117,7 +117,7 @@
     "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/sobre-nos",
     "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/tel:08007702461",
     "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/termos-de-uso",
-    "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/user/logout?token=Xr_fWl_xaWHJMKl6jy6QwYtPWl8Ahw8pq1kinHsjnSE"
+    "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/user/logout?token=sSi3GtQBU-GhX3ucewww3QIFtU3kuj3clFTAhXski-w"
   ],
   "authentication": {
     "cookies_used": true,

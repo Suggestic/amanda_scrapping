@@ -19,3 +19,7 @@ See todo list for detailed progress tracking.
 - **Stage 2**: Session management and caching
 - **Stage 3**: Site crawling with proper scoping
 - **Stage 4**: Production hardening
+
+
+## Order
+1. simple_mapsite.py
