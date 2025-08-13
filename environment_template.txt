@@ -1,0 +1,26 @@
+# Amanda Scrapping - Environment Configuration Template
+# Copy this file to .env and fill in your actual credentials
+# NEVER commit the .env file to version control
+
+# Pantheon Basic Auth (Shield Protection)
+PANTHEON_USERNAME=shield
+PANTHEON_PASSWORD=qaz123!@#
+
+# Application Login Credentials  
+APP_EMAIL=bot@nestle.com
+APP_PASSWORD=80tN3$tl3
+
+# Site Configuration
+BASE_URL=https://dev-73046-nhsc-avante-brazil.pantheonsite.io
+
+# User Agent (same for Playwright and Firecrawl to avoid session mismatches)
+USER_AGENT=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Nestle-Scraper/1.0
+
+# Firecrawl Configuration
+FIRECRAWL_API_KEY=your_firecrawl_api_key_here
+
+# Data retention policy (true/false)
+ZERO_DATA_RETENTION=true
+
+# Logging level (DEBUG, INFO, WARNING, ERROR)
+LOG_LEVEL=INFO

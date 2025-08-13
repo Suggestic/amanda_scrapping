@@ -1,0 +1,14 @@
+# Amanda Scrapping - Python Dependencies
+# Core scraping and automation
+firecrawl-py>=0.0.16
+python-dotenv>=1.0.0
+
+# Web automation (will be added in Stage 1)
+# playwright>=1.40.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Utilities
+requests>=2.31.0
