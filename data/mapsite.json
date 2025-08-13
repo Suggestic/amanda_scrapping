@@ -1,0 +1,790 @@
+{
+  "discovered_urls": [
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/#main-content",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/cadastro-newsletter",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/sobre-nos",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/avante-para-farmaceuticos",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/avante-para-estudantes",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-com-diabetes",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/enfermagem",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/envelhecimento-saudavel-do-paciente",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/extra-hospitalar",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/microbiota-intestinal",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-cirurgico",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-esportiva",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-feminina",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-na-oncologia",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-critico",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-pediatrica",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/suplementacao-nutricional",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/saude-renal",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/terapia-nutricional",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/terapia-nutricional-e-disfagia",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-cirurgico/paciente-cirurgico-avancos-perioperatorio",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos-cientificos",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos-cientificos/todos-os-conteudos",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/aplv",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-com-diabetes",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/enfermagem",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/envelhecimento-saudavel-do-paciente",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/extra-hospitalar",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/gestao-na-saude",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/imunidade",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/saude-e-nutricao",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/microbiota-intestinal",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-celular",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-cirurgico",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-esportiva",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-feminina",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-na-oncologia",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-critico",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-pediatrica",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/suplementacao-nutricional",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/saude-renal",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/terapia-nutricional",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/terapia-nutricional-e-disfagia",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/materiais-de-apoio",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-cirurgico/cirurgia-e-seguranca-paciente",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/acervo",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/calculadoras",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/receitas",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/podcast",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/receber-visita-equipe-nhsc",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/servicos/compartilhar-produtos",
+      "category": "services",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos-cientificos/diabetes/mes-da-conscientizacao-do-diabetes-2-ep",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/eventos",
+      "category": "events",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/editar-interesses",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/meus-cursos",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/meus-certificados",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/node/1862",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/cadastro",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/editar-endereco",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/educacao-a-distancia/suplementacao/suplementacao/farmacia-funcional-abordagens-atuais-em",
+      "category": "high_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/envelhecimento-saudavel-paciente/guia-pro-idade-combate-etarismo-e",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos-cientificos/renal/doses-de-conhecimento-importancia-da-sno-na-hemodialise",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente_critico",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/terapia-nutricional-e-disfagia/curso-gestao-disfagia",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-critico/10-motivos-para-escolher-whey-protein-na-uti",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-cirurgico/formacao-terapia-nutricional-e-metabolica-residentes",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/microbiota-intestinal/aperfeicoamento-doencas-inflamatorias-intestinais",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-oncologia/intervencao-nutricional-diferentes-realidades-clinicas",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-pediatrica/aplv-hmos-novas-evidencias",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/nutricao-oncologia/onconutri-cast",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/paciente-critico/uti-20-como-atender-necessidade-nutricional",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/ead/suplementacao-nutricional/suplementacao-nutricional-conceito-pratica",
+      "category": "education",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/extra-hospitalar/nutriupdates-extra-hospitalar-qualidade-1",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/paciente-diabetes/novas-terapias-antiobesidade-oportunidade-colocar",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/saude-renal/doses-conhecimento-importancia-sno-hemodialise",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/microbiota-intestinal/nutricao-evidencias-diis",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/suplementacao-nutricional/o-papel-suplementacao-pacientes-uso-glp-1",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-oncologia/onconutri-board-atualizacoes-nutricao-oncologica-0",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/nutricao-oncologia/onconutri-board-atualizacoes-nutricao-oncologica",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/microbiota-intestinal/endo-belly-o-que-e-quais-as-causas-e-qual",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/extra-hospitalar/nutriupdates-extra-hospitalar-qualidade-assistencial",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/cobertura_espen2024",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/congresso/ganepao2024",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/coberturaBRASPEN2023",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/envelhecimento-saudavel-paciente/obesidade-diabetes-e-sarcopenia",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/envelhecimento-saudavel-paciente/desnutricao-sarcopenia-e-covid-19",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/conteudos/envelhecimento-saudavel-paciente/mudanca-carreira-se-reinventar-e",
+      "category": "content",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Compleat%C2%AE%20Pediatric",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=FiberMais%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Impact%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Isosource%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Modulen%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Novasource%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE%20Active",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE%20Mulher",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE%20Kids",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE%20Protein",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Nutren%C2%AE%20Senior",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/pwa/produtos/lista?buscar=Peptamen%C2%AE",
+      "category": "products",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/tel:08007702461",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/mailto:falecom@nestle.com.br",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/perguntas-frequentes",
+      "category": "medium_priority",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/termos-de-uso",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/#",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/login?destination=/node/1814",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    },
+    {
+      "url": "https://dev-73046-nhsc-avante-brazil.pantheonsite.io/registrar?destination=/node/1814",
+      "category": "general",
+      "phase": "phase1_foundation",
+      "depth": 1,
+      "discovered_at": "2025-08-13T14:25:10"
+    }
+  ],
+  "total_count": 112,
+  "last_updated": "2025-08-13T14:25:10"
+}
